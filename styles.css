@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+
+
+li em {
+    color: darkseagreen;
+}
+
+h1 + p {
+  font-size: 200%;
+}
+
+p span {
+    color: rgb(0, 255, 55);
+}
